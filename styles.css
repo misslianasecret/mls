@@ -1,12 +1,15 @@
 body {
   background-color: #F2D1D1;}
-  h1 { color: #EE81B3; }
-h3 { color: #EE81B3; }
+h1 { 
+  color: #EE81B3;}
+h3 {
+  color: #EE81B3;}
 hr {
 border-style: none;
 border-top-style: dotted;
 border-color: #F7ECDE;
-border-width: 5px;
-}
-p { color: white; }
-table { color: white; }
+border-width: 5px;}
+p { 
+  color: white;}
+table {
+  color: white;}
